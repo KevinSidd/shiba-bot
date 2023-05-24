@@ -11,7 +11,7 @@ Reason of usage:
 
 Only the owner and the developers of the bot have access to your data. Under no circumstance, anyone other than the mentioned above staff will be provided access to it.
 
-## Privacy Policy of SOFU Bot
+## Privacy Policy of Shiba Bot
 By using Shiba, You agree to these terms:
 
 - We will use your Discord ID, your Server's ID and your Server's Channel ID for our systems stated below.
