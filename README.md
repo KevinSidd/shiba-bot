@@ -1,4 +1,4 @@
-# SOFU Terms And Conditions
+# Shiba Terms And Conditions
 The Terms of Service liable while using Shiba Bot are stated below:
 
 ### Personal Data
